@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Textbox_username",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "EhpXk9G2ykeymoHiOJ0CBg",
+  "Reference": "2zAKHNQ2a0aJT8AYKL1oSQ/EhpXk9G2ykeymoHiOJ0CBg",
+  "ParentRef": "2zAKHNQ2a0aJT8AYKL1oSQ/lOGTVIP8KkW2iQh5ClkLOg",
+  "Created": "2024-02-01T10:33:20.6081055Z",
+  "Updated": "2024-02-01T10:33:48.923972Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
